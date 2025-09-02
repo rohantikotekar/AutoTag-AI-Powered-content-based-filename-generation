@@ -6,13 +6,11 @@ AutoTag is a **powerful command-line utility** designed to streamline digital or
 
 ---
 
-## ✨ Features
+## 🎥 Project Demo
 
-- **🧠 Intelligent Renaming**: Uses advanced multimodal AI models to generate highly accurate and descriptive filenames.
-- **🖼️ Multimodal Support**: Processes and renames a wide range of file types, including **images (.jpg, .png)**, **videos (.mp4, .mov)**, and **documents (.pdf, .txt)**.
-- **🔌 Flexible AI Providers**: Connects with a variety of providers, including **Ollama** (for local models), **OpenAI**, and **LM Studio**.
-- **⚙️ Fully Customizable**: Allows you to define rules for generated names, including case format (`kebabCase`, `camelCase`), character limits, and custom prompts.
-- **🚀 Automated Workflow**: Built as a robust CLI tool for batch processing and integration into automated scripts.
+Watch a short video demonstration of AutoTag in action:
+
+![AutoTag Demo Video](https://via.placeholder.com/600x300.png?text=AutoTag+Demo)
 
 ---
 
@@ -25,6 +23,16 @@ AutoTag's architecture is a modular pipeline designed for efficiency and scalabi
 - A **renaming utility** that ensures naming conventions and avoids conflicts
 
 This ensures a reliable and consistent renaming process, from a single file to a large directory.
+
+---
+
+## ✨ Features
+
+- **🧠 Intelligent Renaming**: Uses advanced multimodal AI models to generate highly accurate and descriptive filenames.
+- **🖼️ Multimodal Support**: Processes and renames a wide range of file types, including **images (.jpg, .png)**, **videos (.mp4, .mov)**, and **documents (.pdf, .txt)**.
+- **🔌 Flexible AI Providers**: Connects with a variety of providers, including **Ollama** (for local models), **OpenAI**, and **LM Studio**.
+- **⚙️ Fully Customizable**: Allows you to define rules for generated names, including case format (`kebabCase`, `camelCase`), character limits, and custom prompts.
+- **🚀 Automated Workflow**: Built as a robust CLI tool for batch processing and integration into automated scripts.
 
 ---
 
@@ -103,14 +111,6 @@ AutoTag showcases the power of local-first AI and DevOps principles in personal 
 
 ---
 
-## 🎥 Project Demo
-
-Watch a short video demonstration of AutoTag in action:
-
-![AutoTag Demo Video](https://via.placeholder.com/600x300.png?text=AutoTag+Demo)
-
----
-
 ## 📌 Future Enhancements
 
 - GUI or web interface for non-technical users
@@ -122,6 +122,7 @@ Watch a short video demonstration of AutoTag in action:
 
 ## 🧑‍💻 Author
 
-**[Your Name Here]** — Software Engineer passionate about AI, automation, and building intelligent tools
+**Rohan Tikotekar** — Software Engineer passionate about AI, automation, and building intelligent tools
 
-📫 Reach me: [Your LinkedIn Profile]
+📫 Reach me: rohantikotekar@gmail.com / https://www.linkedin.com/in/rohan-tikotekar/
+
