@@ -16,6 +16,8 @@ Watch a short video demonstration of AutoTag in action:
 
 ## 🏗️ Architecture
 
+<img width="1239" height="684" alt="image" src="https://github.com/user-attachments/assets/bde609e1-407c-496e-b253-5b4c9f7ff9da" />
+
 AutoTag's architecture is a modular pipeline designed for efficiency and scalability. It routes incoming files through a series of specialized components:
 
 - A **content extraction layer** (for images, video frames, or text)
@@ -125,4 +127,5 @@ AutoTag showcases the power of local-first AI and DevOps principles in personal 
 **Rohan Tikotekar** — Software Engineer passionate about AI, automation, and building intelligent tools
 
 📫 Reach me: rohantikotekar@gmail.com / https://www.linkedin.com/in/rohan-tikotekar/
+
 
