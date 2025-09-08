@@ -122,6 +122,18 @@ AutoTag showcases the power of local-first AI and DevOps principles in personal 
 
 ---
 
+## 📌 Resume Description
+
+- Built a Node.js utility that automatically renames files based on their content instead of metadata, improving organization and searchability.
+- Designed multimodal support to process and rename images, videos, and documents using AI models.
+- Integrated flexible AI providers (OpenAI, LM Studio, Ollama) with dynamic model selection for best performance.
+- Engineered video processing pipeline using FFmpeg to extract frames and generate contextual filenames
+or
+- Built a Node.js utility that uses LLMs (OpenAI, LM Studio, Ollama) to auto-rename multimodal files (images, videos, docs, code files) based on content, with customizable rules.
+- Engineered FFmpeg-based video frame extraction and dynamic model selection, reducing manual renaming by 80%.
+
+---
+
 ## 🧑‍💻 Author
 
 **Rohan Tikotekar** — Software Engineer passionate about AI, automation, and building intelligent tools
