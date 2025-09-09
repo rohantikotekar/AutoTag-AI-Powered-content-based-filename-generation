@@ -18,9 +18,9 @@ AutoTag is a **powerful command-line utility** designed to streamline digital or
 
 ## 🎥 Project Demo
 
-Watch a short video demonstration of AutoTag in action:
+Watch how facebook logo gets renamed as an example:
 
-![AutoTag Demo Video](https://via.placeholder.com/600x300.png?text=AutoTag+Demo)
+https://github.com/user-attachments/assets/3e96cf02-010a-4254-ab3f-bb8b60d7969c
 
 ---
 
