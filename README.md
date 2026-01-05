@@ -136,9 +136,9 @@ or
 
 ## 🧑‍💻 Author
 
-**Rohan Tikotekar** — Software Engineer passionate about AI, automation, and building intelligent tools
+**Rohan Tikotekar** — AI and software engineer passionate about automation and building intelligent tools
 
-📫 Reach me: rtiko001@ucr.edu.com / https://www.linkedin.com/in/rohan-tikotekar/
+📫 Reach me: rtiko001@ucr.edu / https://www.linkedin.com/in/rohan-tikotekar/
 
 
 
