@@ -16,7 +16,7 @@ AutoTag is a **powerful command-line utility** designed to streamline digital or
 
 ---
 
-## 🎥 Project Demo
+## 🎥 Architecture
 
 Watch how facebook logo gets renamed as an example:
 
@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/3e96cf02-010a-4254-ab3f-bb8b60d7969c
 
 ## 🏗️ Architecture
 
-<img width="1239" height="684" alt="image" src="https://github.com/user-attachments/assets/bde609e1-407c-496e-b253-5b4c9f7ff9da" />
+<img width="1474" height="797" alt="image" src="https://github.com/user-attachments/assets/54f4ac5b-594a-48c4-86d1-3d44e5e64080" />
 
 AutoTag's architecture is a modular pipeline designed for efficiency and scalability. It routes incoming files through a series of specialized components:
 
