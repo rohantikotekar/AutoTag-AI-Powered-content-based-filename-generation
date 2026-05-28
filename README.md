@@ -6,6 +6,13 @@ AutoTag is a **powerful command-line utility** designed to streamline digital or
 
 ---
 
+## 🛑The Problem
+Modern professionals are drowning in digital noise, frequently encountering directories flooded with generic names like IMG_4829.png, Document_Scan_v2.pdf, or unnamed_attachment.docx. Traditional automated renamers rely entirely on metadata (like timestamps or file sizes), which fails to capture what the file actually contains.
+
+This issue is especially critical for professionals like lawyers, legal teams, and researchers who manage thousands of sensitive case files, discovery documents, and scanned contracts daily. Relying on cloud-based AI to categorize these files introduces severe data privacy risks, compliance violations, and recurring API costs. There is a critical need for a solution that provides context-aware filename generation while keeping data processing strictly local and secure.
+
+---
+
 ## ✨ Features
 
 - **🧠 Intelligent Renaming**: Uses advanced multimodal AI models to generate highly accurate and descriptive filenames.
