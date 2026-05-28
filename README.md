@@ -24,7 +24,7 @@ This issue is especially critical for professionals like lawyers, legal teams, a
 ---
 
 ## Architecture
-<img width="1474" height="797" alt="image" src="https://github.com/user-attachments/assets/54f4ac5b-594a-48c4-86d1-3d44e5e64080" />
+<img width="1319" height="627" alt="image" src="https://github.com/user-attachments/assets/5d19194a-7368-49f5-bff2-e7eb95f3c0fc" />
 
 
 ## 🎥 Demo: Watch how facebook logo gets renamed as an example:
